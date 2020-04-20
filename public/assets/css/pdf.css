@@ -1,0 +1,25 @@
+#cabecera {
+
+	border: black 3px solid;
+	text-align: center;
+}
+#tabla-data{
+ 
+border: black 2px solid;
+
+}
+
+tr, td {
+border: black 2px solid;
+
+}
+
+h1 {
+	font-family: times black;
+	font-weight: bold;
+	font-size: 50px;
+}
+h3 {
+	font-family: times black;
+	font-weight: bold;
+}
